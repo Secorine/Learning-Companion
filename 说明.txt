@@ -1,0 +1,10 @@
+v0.32 离线版
+
+修改：
+- 不再读取外部json
+- 题库直接写入questions.js
+- 双击index.html即可运行
+- 适合后续制作iOS PWA
+
+以后每日换题：
+修改questions.js即可。

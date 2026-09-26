@@ -1,0 +1,8 @@
+{
+  "name": "学习搭子",
+  "short_name": "学习搭子",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#101018",
+  "description": "每日刷题学习助手"
+}

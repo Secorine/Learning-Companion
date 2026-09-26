@@ -1,0 +1,23 @@
+const today = {
+ title:"今日药学测试",
+ questions:[
+  {
+   question:"HPLC中用于推动流动相通过色谱柱的部件是？",
+   options:["检测器","泵","进样器","色谱柱"],
+   answer:1,
+   explanation:"泵提供压力，使流动相稳定通过色谱柱。"
+  },
+  {
+   question:"药代动力学研究的主要过程包括？",
+   options:["ADME","DNA复制","蛋白合成","免疫反应"],
+   answer:0,
+   explanation:"ADME分别代表吸收、分布、代谢和排泄。"
+  },
+  {
+   question:"变形链球菌致龋的重要原因之一是？",
+   options:["产生酸导致牙釉质脱矿","产生氧气","促进牙齿溶解形成糖","使牙齿快速矿化"],
+   answer:0,
+   explanation:"产酸导致牙釉质矿物质溶解。"
+  }
+ ]
+};

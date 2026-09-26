@@ -1,0 +1,31 @@
+
+body{
+ margin:0;
+ background:#101018;
+ color:white;
+ font-family:sans-serif;
+}
+.app{
+ max-width:520px;
+ margin:auto;
+ padding:20px;
+}
+.card{
+ background:#202030;
+ padding:20px;
+ border-radius:18px;
+ margin:15px 0;
+}
+button,.option{
+ width:100%;
+ padding:14px;
+ margin:8px 0;
+ border-radius:12px;
+ border:0;
+ font-size:16px;
+}
+.explain{
+ background:#303040;
+ padding:15px;
+ border-radius:12px;
+}

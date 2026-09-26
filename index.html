@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>学习搭子</title>
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+<h1>学习搭子</h1>
+<div class="card">
+今日任务：
+<span id="progress">0/0</span>
+</div>
+
+<div id="main"></div>
+
+<div class="card">
+<button onclick="document.getElementById('import').click()">📥 导入题库</button>
+<input id="import" type="file" accept=".json" hidden>
+</div>
+</div>
+
+<script src="default.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

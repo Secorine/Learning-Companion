@@ -1,0 +1,17 @@
+{
+  "title": "今日学习",
+  "questions": [
+    {
+      "type": "choice",
+      "question": "题目",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "解析"
+    }
+  ]
+}
